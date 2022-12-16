@@ -1,0 +1,120 @@
+{
+  "short_name": "SAFIR",
+  "name": "BOOST your Business like never before with InvitePRO",
+  "icons": [
+    {
+      "src": "safir.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "70x70",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    },
+    {
+      "src": "safir.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffb719"
+}
